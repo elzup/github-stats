@@ -59,14 +59,14 @@ jobs:
     - name: Cache
       run: |
         curl $URL_W1 > generated/stats_w1.svg
-        curl $URL_B1 > generated/stats_b1.svg
         curl $URL_W2 > generated/stats_w2.svg
+        curl $URL_B1 > generated/stats_b1.svg
         curl $URL_B2 > generated/stats_b2.svg
 
       env:
         URL_W1: "https://github-readme-stats.vercel.app/api?username=elzup&show_icons=true&theme=graywhite&hide=stars,contribs&count_private=true"
-        URL_B1: "https://github-readme-stats.vercel.app/api?username=elzup&show_icons=true&theme=buefy&text_color=333&include_all_commits=true&bg_color=30,ffffff,fafafa&hide=prs,issues&count_private=true"
-        URL_W2: "https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=dark&icon_color=fff&hide=stars,contribs&count_private=true"
+        URL_W2: "https://github-readme-stats.vercel.app/api?username=elzup&show_icons=true&theme=buefy&text_color=333&include_all_commits=true&bg_color=30,ffffff,fafafa&hide=prs,issues&count_private=true"
+        URL_B1: "https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=dark&icon_color=fff&hide=stars,contribs&count_private=true"
         URL_B2: "https://github-readme-stats.vercel.app/api/?username=elzup&show_icons=true&theme=nightowl&bg_color=151515&text_color=9f9f9f&include_all_commits=true&hide=prs,issues&count_private=true"
 
     # Commits all changed files to the repository
