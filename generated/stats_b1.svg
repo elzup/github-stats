@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">elzup's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Commits in 2022 : 89, Total PRs: 117, Total Issues: 540</desc>
+        <desc id="descId">Total Commits in 2022 : 90, Total PRs: 117, Total Issues: 540</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -66,7 +66,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 94.71713695543875;
+        stroke-dashoffset: 94.79545354554965;
       }
     }
   
