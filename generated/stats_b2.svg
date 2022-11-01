@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">elzup's GitHub Stats, Rank: S</title>
-        <desc id="descId">Total Stars Earned: 93, Total Commits  : 93, Contributed to: 17</desc>
+        <desc id="descId">Total Stars Earned: 95, Total Commits  : 95, Contributed to: 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 39.1216193797198;
+        stroke-dashoffset: 38.82108268283869;
       }
     }
   
@@ -160,7 +160,7 @@
         x="175"
         y="12.5"
         data-testid="stars"
-      >93</text>
+      >95</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -175,7 +175,7 @@
         x="175"
         y="12.5"
         data-testid="commits"
-      >12.3k</text>
+      >12.4k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -190,7 +190,7 @@
         x="175"
         y="12.5"
         data-testid="contribs"
-      >17</text>
+      >15</text>
     </g>
   </g>
     </svg>
