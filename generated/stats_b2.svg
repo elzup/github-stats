@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">elzup's GitHub Stats, Rank: S</title>
-        <desc id="descId">Total Stars Earned: 95, Total Commits  : 95, Contributed to: 15</desc>
+        <title id="titleId">elzup's GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 96, Total Commits  : 96, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 38.82108268283869;
+        stroke-dashoffset: 114.04194100739431;
       }
     }
   
@@ -142,7 +142,7 @@
             dominant-baseline="central"
             text-anchor="middle"
           >
-            S
+            A+
           </text>
         </g>
       </g>
@@ -157,10 +157,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="175"
+        x="219.01"
         y="12.5"
         data-testid="stars"
-      >95</text>
+      >96</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -172,10 +172,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits:</text>
       <text
         class="stat  bold"
-        x="175"
+        x="219.01"
         y="12.5"
         data-testid="commits"
-      >12.4k</text>
+      >1.3k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -184,13 +184,13 @@
       <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
     </svg>
   
-      <text class="stat  bold" x="25" y="12.5">Contributed to:</text>
+      <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="175"
+        x="219.01"
         y="12.5"
         data-testid="contribs"
-      >15</text>
+      >14</text>
     </g>
   </g>
     </svg>
