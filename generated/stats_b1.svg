@@ -1,15 +1,15 @@
 
       <svg
-        width="495"
+        width="467"
         height="150"
-        viewBox="0 0 495 150"
+        viewBox="0 0 467 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">elzup's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Commits in 2023 : 98, Total PRs: 117, Total Issues: 541</desc>
+        <desc id="descId">Total Commits in 2023 : 99, Total PRs: 117, Total Issues: 541</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 102.91141598795673;
+        stroke-dashoffset: 102.6850541466798;
       }
     }
   
@@ -104,7 +104,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="494"
+          width="466"
           fill="#151515"
           stroke-opacity="1"
         />
@@ -131,7 +131,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(400, 25)">
+          transform="translate(390.5, 25)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
