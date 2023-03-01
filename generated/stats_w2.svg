@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">elzup's GitHub Stats, Rank: S</title>
-        <desc id="descId">Total Stars Earned: 99, Total Commits  : 99, Contributed to (last year): 13</desc>
+        <title id="titleId">elzup's GitHub Stats, Rank: A++</title>
+        <desc id="descId">Total Stars Earned: 102, Total Commits  : 102, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 43.49869457295355;
+        stroke-dashoffset: 112.00978523217631;
       }
     }
   
@@ -152,7 +152,7 @@
             dominant-baseline="central"
             text-anchor="middle"
           >
-            S
+            A++
           </text>
         </g>
       </g>
@@ -170,7 +170,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >99</text>
+      >102</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -185,7 +185,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >12.9k</text>
+      >1.6k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -200,7 +200,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >13</text>
+      >8</text>
     </g>
   </g>
     </svg>
