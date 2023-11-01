@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">elzup's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits in 2023 : 137, Total PRs: 118, Total Issues: 543</desc>
+        <desc id="descId">Total Commits in 2023 : 138, Total PRs: 118, Total Issues: 543</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,31 +73,31 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 67.7135558741908;
+        stroke-dashoffset: 67.52255441940389;
       }
     }
   
   
 
           
-    /* Animations */
-    @keyframes scaleInAnimation {
-      from {
-        transform: translate(-5px, 5px) scale(0);
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
       }
-      to {
-        transform: translate(-5px, 5px) scale(1);
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
       }
-    }
-    @keyframes fadeInAnimation {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  
+    
           
         </style>
 
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >503</text>
+      >505</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
